@@ -28,6 +28,7 @@ state,value
 Maharashtra,34
 Kerala,12
 Uttar Pradesh,67
+```
 
 ## Author
 
