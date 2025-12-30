@@ -264,7 +264,7 @@ def render_map(
     # SOURCE
     # =============================
     fig.text(
-        0.04, 0.033, SOURCE_TEXT,
+        0.03, 0.023, SOURCE_TEXT,
         ha="left", va="bottom",
         fontsize=9, fontweight="bold",
         color="#555555"
@@ -294,5 +294,6 @@ def render_map(
     plt.close()
 
     print("India heatmap created successfully")
+
 
 
