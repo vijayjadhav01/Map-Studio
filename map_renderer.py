@@ -294,11 +294,3 @@ def render_map(
     plt.close()
 
     print("India heatmap created successfully")
-
-
-
-
-
-
-
-
